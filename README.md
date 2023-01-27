@@ -18,7 +18,7 @@
 
 ## General info
 
-This project is a ToDo application with full asynchronous CRUD based on FastAPI endpoints and handling of HTTP requests via React hooks. The aim of the project is to learn new technologies (mainly FastAPI and React) and gain a better understanding of the frontend from the backend developer's side
+This project is a ToDo application with RESTful asynchronous CRUD based on FastAPI endpoints and handling of HTTP requests via React hooks. The aim of the project is to learn new technologies (mainly FastAPI and React) and gain a better understanding of the frontend from the backend developer's side
 
 ## Quick look
 
@@ -68,7 +68,7 @@ Then, after your venv folder is created open it by
 
     > source venv/bin/activate
 
-And then install requirements included in filde requirements.txt
+And then install requirements included in file requirements.txt
 
 > pip install -r requirements.txt
 
