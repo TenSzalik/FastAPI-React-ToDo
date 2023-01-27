@@ -26,7 +26,7 @@ This project is a ToDo application with RESTful asynchronous CRUD based on FastA
 
 ![Short gif how ToDo works](https://i.imgur.com/sfKfdOd.gif)
 
-### Quick look at the React component structure
+### Quick look at the React components structure
 
 ![Components schema](https://i.imgur.com/cR0Sj2v.jpg)
 
