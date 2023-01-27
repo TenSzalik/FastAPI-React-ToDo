@@ -3,11 +3,10 @@
 ## Table of content
 
 * [General info](#general-info)
-* [Quick view](#quick-wiew)
+* [Quick look](#quick-look)
     + [Gif presentation](#gif-presentation)
-    + [Quick view on React's component schema](#quick-view-on-reacts-component-schema)
-    + [Quick view on endpoint's structure](#quick-view-on-endpoints-structure)
-* [React state schema](#react-state-schema)
+    + [Quick look at the React component structure](#quick-look-at-the-react-component-structure)
+    + [Quick look at the endpoints scheme](#quick-look-at-the-endpoints-scheme)
 * [Technologies](#technologies)
 * [Setup](#setup)
     + [Backend](#backend)
